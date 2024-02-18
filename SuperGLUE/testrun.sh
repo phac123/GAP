@@ -1,0 +1,1 @@
+python cli.py --relation_id=RTE --num_class=2 --batch_size=32 --lr=3e-5 --cuda_device=cuda:3 --evaluate_type=Accuracy --use_original_template=True
