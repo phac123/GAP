@@ -1,2 +1,2 @@
 # CEKFNN
-the implementation of GAP and some checkpoint
+the implementation of CEKFNN and some checkpoint
